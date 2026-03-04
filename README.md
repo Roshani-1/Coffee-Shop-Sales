@@ -1,3 +1,4 @@
+[Dashboard Preview](Screenshots 2026-03-02 164411.png)
 # ☕ Coffee-Shop-Sales
 📌 Project Overview
 An interactive sales dashboard built in Microsoft Excel to analyze coffee shop performance across multiple locations.
