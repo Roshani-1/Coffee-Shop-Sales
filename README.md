@@ -49,6 +49,11 @@ This project transforms raw transactional data into meaningful business insights
 ✔ Data Visualization
 ✔ Analytical Thinking
 
+## 📊 Business Impact
+- Identified peak sales hours for better staff allocation
+- Analyzed top-performing products to improve inventory planning
+- Evaluated store-wise performance for revenue optimization
+
 ---
 👩‍💻 Created by Roshani Yadav  
 Aspiring Data Analyst | Excel | SQL | Power BI
