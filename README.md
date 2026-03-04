@@ -20,8 +20,8 @@ This project transforms raw transactional data into meaningful business insights
 * 👣 Total Footfall: 149,116
 * ☕ Coffee contributes highest sales (39%)
 * 🕘 Peak Sales Time: 8 AM – 10 AM
-* 🏆 Top Product: Barista Espresso
-•📍 Best Performing Store: Hell’s Kitchen
+* 🏆 Top Product: Barista Espress
+* 📍 Best Performing Store: Hell’s Kitchen
 
 🛠 Tools & Techniques Used
 * Microsoft Excel
