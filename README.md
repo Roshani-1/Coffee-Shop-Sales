@@ -46,9 +46,9 @@ This project transforms raw transactional data into meaningful business insights
 ✔ Data Cleaning
 ✔ Business Analysis
 ✔ KPI Reporting
+✔ Data Visualization
+✔ Analytical Thinking
 
 ---
 👩‍💻 Created by Roshani Yadav  
 Aspiring Data Analyst | Excel | SQL | Power BI
-✔ Data Visualization
-✔ Analytical Thinking
