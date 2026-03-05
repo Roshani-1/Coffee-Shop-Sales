@@ -1,6 +1,6 @@
 ☕ Coffee Shop Sales Dashboard (Excel Analytics Project)
 
-![Dashboard Preview](Dashboard_preview..png)
+![Dashboard Preview](Dashboard_preview.png)
 
 ## 📊 Excel Analytics Project
 
